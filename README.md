@@ -6,10 +6,11 @@ IEXE Repositorio prueba
 
 Ejercicios de git
 
-![Image text](img/Log 1.jpg)
-![Image text](img/Log 2.jpg)
-![Image text](img/Log 3.jpg)
-![Image text](img/Log 4.jpg)
-![Image text](img/Log 5.jpg)
-![Image text](img/Log 6.jpg)
-![Image text](img/Log 7.jpg)
+![Image text](https://github.com/JoseManuelHernandez/test-git/blob/main/img/Log_1.jpg)
+![Image text](https://github.com/JoseManuelHernandez/test-git/blob/main/img/Log_2.jpg)
+![Image text](https://github.com/JoseManuelHernandez/test-git/blob/main/img/Log_3.jpg)
+![Image text](https://github.com/JoseManuelHernandez/test-git/blob/main/img/Log_4.jpg)
+![Image text](https://github.com/JoseManuelHernandez/test-git/blob/main/img/Log_5.jpg)
+![Image text](https://github.com/JoseManuelHernandez/test-git/blob/main/img/Log_6.jpg)
+![Image text](https://github.com/JoseManuelHernandez/test-git/blob/main/img/Log_7.jpg)
+![Image text](https://github.com/JoseManuelHernandez/test-git/blob/main/img/Network.png)
